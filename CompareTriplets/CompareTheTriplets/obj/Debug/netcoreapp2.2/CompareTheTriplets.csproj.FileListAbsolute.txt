@@ -1,0 +1,11 @@
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/bin/Debug/netcoreapp2.2/CompareTheTriplets.deps.json
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/bin/Debug/netcoreapp2.2/CompareTheTriplets.runtimeconfig.json
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/bin/Debug/netcoreapp2.2/CompareTheTriplets.runtimeconfig.dev.json
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/bin/Debug/netcoreapp2.2/CompareTheTriplets.dll
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/bin/Debug/netcoreapp2.2/CompareTheTriplets.pdb
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/obj/Debug/netcoreapp2.2/CompareTheTriplets.csprojAssemblyReference.cache
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/obj/Debug/netcoreapp2.2/CompareTheTriplets.csproj.CoreCompileInputs.cache
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/obj/Debug/netcoreapp2.2/CompareTheTriplets.AssemblyInfoInputs.cache
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/obj/Debug/netcoreapp2.2/CompareTheTriplets.AssemblyInfo.cs
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/obj/Debug/netcoreapp2.2/CompareTheTriplets.dll
+/home/richc/Hackerrank/CompareTriplets/CompareTheTriplets/obj/Debug/netcoreapp2.2/CompareTheTriplets.pdb

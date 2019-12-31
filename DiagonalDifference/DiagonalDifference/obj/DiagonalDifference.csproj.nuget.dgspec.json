@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/run/media/richc/Data/OldLaptopSept192019/repos/DiagonalDifference/DiagonalDifference/DiagonalDifference.csproj": {}
+  },
+  "projects": {
+    "/run/media/richc/Data/OldLaptopSept192019/repos/DiagonalDifference/DiagonalDifference/DiagonalDifference.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/run/media/richc/Data/OldLaptopSept192019/repos/DiagonalDifference/DiagonalDifference/DiagonalDifference.csproj",
+        "projectName": "DiagonalDifference",
+        "projectPath": "/run/media/richc/Data/OldLaptopSept192019/repos/DiagonalDifference/DiagonalDifference/DiagonalDifference.csproj",
+        "packagesPath": "/home/richc/.nuget/packages/",
+        "outputPath": "/run/media/richc/Data/OldLaptopSept192019/repos/DiagonalDifference/DiagonalDifference/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/richc/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

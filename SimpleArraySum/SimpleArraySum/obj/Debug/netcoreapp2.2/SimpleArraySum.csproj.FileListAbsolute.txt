@@ -1,0 +1,11 @@
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/bin/Debug/netcoreapp2.2/SimpleArraySum.deps.json
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/bin/Debug/netcoreapp2.2/SimpleArraySum.runtimeconfig.json
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/bin/Debug/netcoreapp2.2/SimpleArraySum.runtimeconfig.dev.json
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/bin/Debug/netcoreapp2.2/SimpleArraySum.dll
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/bin/Debug/netcoreapp2.2/SimpleArraySum.pdb
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/obj/Debug/netcoreapp2.2/SimpleArraySum.csprojAssemblyReference.cache
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/obj/Debug/netcoreapp2.2/SimpleArraySum.csproj.CoreCompileInputs.cache
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/obj/Debug/netcoreapp2.2/SimpleArraySum.AssemblyInfoInputs.cache
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/obj/Debug/netcoreapp2.2/SimpleArraySum.AssemblyInfo.cs
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/obj/Debug/netcoreapp2.2/SimpleArraySum.dll
+/home/richc/Hackerrank/SimpleArraySum/SimpleArraySum/obj/Debug/netcoreapp2.2/SimpleArraySum.pdb

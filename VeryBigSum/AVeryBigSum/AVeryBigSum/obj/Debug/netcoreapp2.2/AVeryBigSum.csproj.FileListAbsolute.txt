@@ -1,0 +1,11 @@
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/bin/Debug/netcoreapp2.2/AVeryBigSum.deps.json
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/bin/Debug/netcoreapp2.2/AVeryBigSum.runtimeconfig.json
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/bin/Debug/netcoreapp2.2/AVeryBigSum.runtimeconfig.dev.json
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/bin/Debug/netcoreapp2.2/AVeryBigSum.dll
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/bin/Debug/netcoreapp2.2/AVeryBigSum.pdb
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/obj/Debug/netcoreapp2.2/AVeryBigSum.csprojAssemblyReference.cache
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/obj/Debug/netcoreapp2.2/AVeryBigSum.csproj.CoreCompileInputs.cache
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/obj/Debug/netcoreapp2.2/AVeryBigSum.AssemblyInfoInputs.cache
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/obj/Debug/netcoreapp2.2/AVeryBigSum.AssemblyInfo.cs
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/obj/Debug/netcoreapp2.2/AVeryBigSum.dll
+/home/richc/Hackerrank/VeryBigSum/AVeryBigSum/AVeryBigSum/obj/Debug/netcoreapp2.2/AVeryBigSum.pdb
